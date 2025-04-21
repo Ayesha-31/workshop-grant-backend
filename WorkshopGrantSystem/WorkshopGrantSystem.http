@@ -1,0 +1,6 @@
+@WorkshopGrantSystem_HostAddress = http://localhost:5136
+
+GET {{WorkshopGrantSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
